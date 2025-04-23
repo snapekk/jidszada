@@ -6,4 +6,4 @@
   "551360392961@s.whatsapp.net",
   "559595724162@s.whatsapp.net",
   "553733241003@s.whatsapp.net"
-];
+]
