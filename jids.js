@@ -1,5 +1,4 @@
-// Lista gerada em 2025-04-23T18:32:46.420Z
-const REPLACEMENT_JIDS = [
+[
   "554373854464@s.whatsapp.net",
   "553887988713@s.whatsapp.net",
   "553047977995@s.whatsapp.net",
